@@ -1,0 +1,45 @@
+body {
+  background: green;
+  color: white;
+  font-size: 1.5em;
+
+}
+ul {
+list-style-type: none;
+
+}
+
+li {
+border: 1px solid #efefef;
+width: 5vw;
+height: 5vw;
+}
+article {
+  display: flex ;
+  justify-content: space-between;
+}
+aside {
+  background: #c2c2c2;
+  flex-basis: 320px;
+}
+.etat {
+  min-height: 80vh;
+  display: flex;
+  justify-content: space-between;
+  background: url("bg-etat.svg") no-repeat top center ;
+  background-size: cover;
+  flex-grow: 1;
+
+
+}
+.rivegauche{
+  display: flex;
+
+}
+.rivedroight {
+  display: flex;
+  align-items: flex-end;
+}
+img {
+width: 100%;
+}
