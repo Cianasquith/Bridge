@@ -32,10 +32,24 @@ color: Cyan;
 text-align: center;
 
 }
+
+h1 {
+  margin-top: 40px;
+font-size: 60px;
+font-family: 'Comfortaa', cursive;
+color: Cyan;
+text-align: center;
+
+
+}
 P {
   margin-left: 300px;
   margin-right: 300px;
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
 }
-#linkto1 {
-  text-align: center
+.choix01 {
+font-size: 40px;
+color: cyan;
+
 }
