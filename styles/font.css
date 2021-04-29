@@ -28,7 +28,14 @@ font-family: 'Scope One', serif;
 margin-top: 40px;
 font-size: 60px;
 font-family: 'Comfortaa', cursive;
-color: Blue;
+color: Cyan;
 text-align: center;
 
+}
+P {
+  margin-left: 300px;
+  margin-right: 300px;
+}
+#linkto1 {
+  text-align: center
 }
