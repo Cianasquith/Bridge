@@ -11,18 +11,16 @@ line-height: 100px;
 }
 
 .titre {
-font-size: 40px;
+
+font-size: 80px;
 font-family: 'Comfortaa', cursive;
-margin-top: 10px;
+
 line-height: 100px;
 text-align: center;
 
 }
 
-#text1 {
-font-family: 'Scope One', serif;
 
-}
 
 #linkto1 {
 margin-top: 40px;
@@ -47,9 +45,42 @@ P {
   margin-right: 300px;
   text-align: center;
   font-family: 'Comfortaa', cursive;
+  font-size: 1.8em;
 }
 .choix01 {
 font-size: 40px;
 color: cyan;
 
+}
+
+#gototext {
+  margin-top: 5%;
+}
+#page1title {
+  font-size: 30px;
+  text-align: left;
+margin-top: 0%;
+margin-bottom: 0%;
+}
+
+
+header {
+position: relative;
+
+background-image: url("../images/kings_and_queen.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  min-height: 100vh;
+color: blue;
+}
+header a {
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right:0;
+  width: 100%;
 }
