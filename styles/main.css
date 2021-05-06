@@ -102,6 +102,7 @@ img{
   text-decoration: none;
   font-size: 2em;
   margin-top: 40%;
+  font-family: 'Comfortaa', cursive;
 
 }
 
@@ -115,4 +116,12 @@ img{
 .imgBato{
   width: 120%;
   height: 120%;
+}
+
+.Explication {
+  color: white;
+  text-decoration: none;
+  font-size: 2em;
+  margin-top: 40%;
+  margin-left: 3%;
 }

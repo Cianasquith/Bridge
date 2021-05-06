@@ -35,7 +35,7 @@ h1 {
   margin-top: 40px;
 font-size: 60px;
 font-family: 'Comfortaa', cursive;
-color: Cyan;
+color: #8A4018;
 text-align: center;
 
 
@@ -67,7 +67,7 @@ margin-bottom: 0%;
 header {
 position: relative;
 
-background-image: url("../images/kings_and_queen.jpg");
+background-image: url("../images/kingsandqueens.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;
